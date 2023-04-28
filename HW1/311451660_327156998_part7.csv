@@ -1,0 +1,9 @@
+model_name,f1_score
+"n = 1, add_one = False",0.559659649986144
+"n = 2, add_one = False",0.8540032043148125
+"n = 3, add_one = False",0.8825410316647341
+"n = 4, add_one = False",0.7949199120142474
+"n = 1, add_one = True",0.667513094316079
+"n = 2, add_one = True",0.8750839401494929
+"n = 3, add_one = True",0.9238768379120521
+"n = 4, add_one = True",0.9183128996924542
